@@ -1,2 +1,5 @@
 # BF_Polarimetric_Microscope
-Bright field polarimetric microscope web application, how to use it and how to access it 
+
+URL to access the Bright Field Polarimetric Microscope Web Application
+
+http://3.143.246.230:5000/
