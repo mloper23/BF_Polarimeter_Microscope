@@ -1,4 +1,4 @@
-# BF_Polarimetric_Microscope
+# Bright-Field Polarimetric Microscope
 
 URL to access the Bright Field Polarimetric Microscope Web Application:
 
