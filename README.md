@@ -8,5 +8,6 @@ In the main interface of this app, the user can interact with the elements that 
 
 In this repository, test images can be found to start using the application. Then you can create your own images in the polarimetric microscope window and save them on your computer, or you can record them experimentally following the information given in the web app. 
 
-If you think our work is contributing, please reference our paper:
-(A reference will be available soon).
+If you find our work contributing, please reference our work:
+
+(A paper reference will be available soon).
